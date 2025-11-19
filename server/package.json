@@ -1,0 +1,1 @@
+{\n  "name": "connectsphere-server",\n  "version": "1.0.0",\n  "private": true,\n  "description": "Node.js/Express backend for ConnectSphere social media app",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.18.2",\n    "cors": "^2.8.5"\n  }\n}
